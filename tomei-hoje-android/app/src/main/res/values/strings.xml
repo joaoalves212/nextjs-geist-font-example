@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tomei hoje?</string>
+    <string name="title_main">Tomei hoje?</string>
+    <string name="add_medication">Adicionar Medicamento</string>
+    <string name="medication_name_hint">Nome do medicamento</string>
+    <string name="add">Adicionar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_medication">Excluir medicamento</string>
+    <string name="medication_taken">Medicamento tomado</string>
+    <string name="medication_not_taken">Medicamento não tomado</string>
+</resources>
